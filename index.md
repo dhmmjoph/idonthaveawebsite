@@ -1,5 +1,6 @@
 ---
 layout: default
+title: I don't have a website.
 ---
-# This person doesn't have a website.
-So they sent you here instead.
+# I don't have a website.
+So I sent you here instead.
